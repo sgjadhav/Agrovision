@@ -32,6 +32,7 @@ If you want to run this application on your own machine:
    cd agrovision-ai
 python -m venv venv
 venv\Scripts\activate  # On Windows
+
 source venv/bin/activate  # On Mac/Linux
 
 pip install -r requirements.txt
